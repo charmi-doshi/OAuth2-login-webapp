@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-    apiKey: "AIzaSyCcnS9-3uO6NMP4hPs0UOrGnUrGOdVdUwc",
+    apiKey: "***",
     authDomain: "client-management-8934a.firebaseapp.com",
     projectId: "client-management-8934a",
     storageBucket: "client-management-8934a.appspot.com",
